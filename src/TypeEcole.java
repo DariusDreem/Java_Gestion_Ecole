@@ -1,0 +1,4 @@
+
+public enum TypeEcole {
+PRIMAIRE,COLLEGE,LYCEE,UNIVERSITE
+}
